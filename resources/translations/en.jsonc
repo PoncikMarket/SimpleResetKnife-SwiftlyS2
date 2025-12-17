@@ -1,0 +1,6 @@
+{
+  "error_cooldown": "{PREFIX} You must wait {DarkRed}{0}{White} seconds!",
+  "error_team": "{PREFIX} You must be in a team!",
+  "knife_given": "{PREFIX} {Green}Knife given!",
+  "error_has_knife": "{PREFIX} {Red}You already have a knife! You must drop it first."
+}

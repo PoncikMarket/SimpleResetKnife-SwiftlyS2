@@ -1,0 +1,6 @@
+{
+  "error_cooldown": "{PREFIX} Tekrar almak için {DarkRed}{0}{White} saniye beklemelisin!",
+  "error_team": "{PREFIX} Takımda olman lazım!",
+  "knife_given": "{PREFIX} {Green}Bıçak verildi!",
+  "error_has_knife": "{PREFIX} {Red}Zaten bir bıçağın var! Önce onu atmalısın."
+}
